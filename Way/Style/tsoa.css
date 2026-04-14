@@ -1,0 +1,36 @@
+body {
+    background-color: #f8b72d;
+}
+h1 {
+    text-align: center;
+    color: #E15207;
+    font-style: italic;
+      font-family: 'Times New Roman', Times, serif  
+}
+hr {
+    border: 2px solid #000000;
+}
+img {
+    display: block;
+    float: right;
+    margin-right: 750px;
+    width: 400px;
+}
+
+h2 {
+    color: #E15207;
+    margin-left: 280px;
+    font-family: palatino, serif;
+    font-style: italic;
+
+}
+
+p {
+    width: 730px;
+}
+
+#Author {
+   float: right;
+   margin-right: 700px;
+
+}
