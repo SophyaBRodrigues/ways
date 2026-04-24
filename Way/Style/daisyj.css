@@ -1,0 +1,31 @@
+body {
+    background-color: #FFF9E9;
+}
+
+h1 {
+    color:#211B15;
+    text-align: center;
+}
+
+img {
+    display: block;
+    float: right;
+    margin-right: 750px;
+    width: 400px;
+}
+
+hr {
+    border: 2px solid #04abb1  ;
+}
+
+h2{
+    color: #211B15;
+    margin-left: 280px;
+    font-family: palatino, serif;
+    font-style: italic;
+}
+
+p{
+    width: 730px;
+}
+
