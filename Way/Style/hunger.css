@@ -1,0 +1,33 @@
+body {
+    background-color: black
+}
+h1 {
+    color: #cea92e;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif  
+}
+
+a{
+    color: #D4AF37  ;
+}
+
+hr {
+    border: 2px solid #BF9B30  ;
+}
+
+img {
+    display: block;
+    float: right;
+    margin-right: 750px;
+    width: 400px;
+}
+
+h2{
+    color: white;
+}
+
+p {
+    color: white;
+    width: 730px;
+}
