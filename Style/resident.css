@@ -1,0 +1,41 @@
+body {
+    background-color: #3F7692;
+}
+
+img {
+    display: block;
+    float: right;
+    margin-right: 600px;
+    width: 700px;
+    filter: drop-shadow(4px 4px 4px #111);
+}
+
+h1 {
+    color: #162d38;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif  
+}
+
+h2 {
+    color: #162d38  ;
+    margin-left: 240px;
+    font-family: palatino, serif;
+    font-style: italic;
+}
+
+hr {
+     border: 2px solid #162d38;
+}
+
+p {
+    width: 720px;
+}
+
+a {
+    color: #162d38;
+}
+li {
+    color: #000000;
+    margin-left: 160px;
+}

@@ -1,0 +1,37 @@
+body {
+    background-color: black
+}
+h1 {
+    color: #cea92e;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif  
+}
+
+a{
+    color: #D4AF37  ;
+}
+
+hr {
+    border: 2px solid #BF9B30  ;
+}
+
+img {
+    display: block;
+    float: right;
+    margin-right: 750px;
+    width: 400px;
+<<<<<<< HEAD
+    filter: drop-shadow(4px 4px 4px #111);
+=======
+>>>>>>> e3ca0e7900b5f961ab7b84babde1008c76000310
+}
+
+h2{
+    color: white;
+}
+
+p {
+    color: white;
+    width: 730px;
+}
