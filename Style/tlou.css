@@ -1,8 +1,8 @@
 body {
-    background-color: #11161E;
+    background-color: #768DA1;
 }
 h1 {
-     color: #86A6C1;
+     color: #313F4B;
     text-align: center;
     font-style: italic;
     font-family: 'Times New Roman', Times, serif  
@@ -13,4 +13,14 @@ img {
     margin-right: 600px;
     width: 700px;
     filter: drop-shadow(4px 4px 4px #111);
+}
+a {
+    color: #313F4B;
+}
+h2 {
+    color: #313F4B  ;
+    margin-left: 240px;
+    font-family: palatino, serif;
+    font-style: italic;
+    
 }
